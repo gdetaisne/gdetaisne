@@ -1,31 +1,22 @@
-# Guillaume Stehelin de Taisne
+### Guillaume Stehelin de Taisne
 
-**Fractional CFO & COO • Entrepreneur • Builder**
+Dix ans directeur financier, puis dirigeant : quatre ans à la tête de Ligerio, un e-commerce porté à 10 M€ de chiffre d'affaires. Aujourd'hui, j'aide des dirigeants de PME sur les sujets qu'ils n'ont pas le temps de porter, et quand un sujet traverse les outils, je construis moi-même.
 
-Je conçois, finance et scale des produits digitaux avec une approche très opérationnelle et data-driven.
-
-- Ancien cofondateur & directeur général de **Ligerio** (e-commerce matériaux, CA ≈ 10 M€).
-- Aujourd’hui : j’accompagne fondateurs et investisseurs en tant que **CFO/COO fractionné**.
-- Je construis aussi des produits, notamment **Moverz**, un outil d’estimation de déménagement à partir de photos.
+**[teneo-services.com](https://teneo-services.com)**
 
 ---
 
-### 🔧 Ce que je construis
+#### Ce que je construis
 
-- Apps web modernes (TypeScript, Next.js, Node.js)
-- Outils d’IA appliquée (vision, classification d’images, automatisation de workflows)
-- Systèmes finance + ops : pricing, reporting, modèles de cashflow
+| Projet | Ce que ça fait | Le code |
+|---|---|---|
+| **[Teneolog](https://teneolog.com)** | Dit au commercial, pendant l'appel, si le camion passera à l'adresse de livraison. Le raisonnement d'un logisticien, écrit en code : déterministe, sans boîte noire. | [teneolog](https://github.com/gdetaisne/teneolog) : le moteur, ses tests, et [le métier derrière](https://github.com/gdetaisne/teneolog/blob/main/docs/METIER.md) |
+| **[Moverz](https://moverz.fr)** | Une marketplace de déménagement : jusqu'à dix devis fermes pour une demande. Une note sur cinq axes décide quels déménageurs sont proposés. | [moverz-scoring](https://github.com/gdetaisne/moverz-scoring) : la notation, publiée avec ses vrais poids, et [pourquoi ces choix](https://github.com/gdetaisne/moverz-scoring/blob/main/docs/METIER.md) |
 
----
+#### Ma façon de construire
 
-### 🧱 Repos à regarder en priorité
+- **Partir du terrain.** Chaque règle a une raison métier, écrite à côté du code.
+- **Mesurer avant de croire.** Des tests partout, et aucune note ni verdict inventé quand une donnée manque.
+- **Aller vite avec l'IA, sans lui laisser la main.** Je construis avec des agents IA, sous ma direction : spécifications, revue, tests.
 
-- `moverz_main` – cœur du projet Moverz (MVP estimation de déménagement)
-- `gslv.fr` – code de mon site pro : [gslv.fr](https://gslv.fr)
-
----
-
-### 📫 Me contacter
-
-- Site : [https://gslv.fr](https://gslv.fr)
-- LinkedIn : cherche “Guillaume Stehelin de Taisne” ou https://www.linkedin.com/in/guillaume-stehelin-de-taisne-4a59805a/
+Les produits complets restent privés. Les vitrines ci-dessus en montrent le cœur.
