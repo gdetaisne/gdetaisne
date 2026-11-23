@@ -10,7 +10,7 @@ Dix ans directeur financier, puis dirigeant : quatre ans à la tête de Ligerio,
 
 | Projet | Ce que ça fait | Le code |
 |---|---|---|
-| **[Teneolog](https://teneolog.com)** | Dit au commercial, pendant l'appel, si le camion passera à l'adresse de livraison. Le raisonnement d'un logisticien, écrit en code : déterministe, sans boîte noire. | [teneolog](https://github.com/gdetaisne/teneolog) : le moteur, ses tests, et [le métier derrière](https://github.com/gdetaisne/teneolog/blob/main/docs/METIER.md) |
+| **[Teneolog](https://teneolog.com)** | Dit au commercial, pendant l'appel, si le camion passera à l'adresse de livraison. Le raisonnement d'un logisticien, écrit en code : déterministe, sans boîte noire. | [l'API, en détail](https://teneolog.com/fr-FR/integration) : ce qu'on envoie, ce que Teneolog vérifie, ce qu'il répond |
 | **[Moverz](https://moverz.fr)** | Une marketplace de déménagement : jusqu'à dix devis fermes pour une demande. Une note sur cinq axes décide quels déménageurs sont proposés. | [moverz-scoring](https://github.com/gdetaisne/moverz-scoring) : la notation, publiée avec ses vrais poids, et [pourquoi ces choix](https://github.com/gdetaisne/moverz-scoring/blob/main/docs/METIER.md) |
 
 #### Ma façon de construire
